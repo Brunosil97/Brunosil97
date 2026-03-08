@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silvino-silva/)
 [![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://brunosilvinosilva.medium.com/)
 
-I'm a Senior Software Engineer at [Herbert Smith Freehills Kramer](https://www.herbertsmithfreehills.com/) in London.
+I'm a Senior Engineer at [Simmons & Simmons](https://www.simmons-simmons.com/) in London.
 
 I work at the intersection of engineering, product, design, building secure, scalable and user-centric applications. For the past few years, I've been deep in legal-tech, AI platforms, and frontend architecture, helping shape how enterprise platforms evolve and grow.
 
